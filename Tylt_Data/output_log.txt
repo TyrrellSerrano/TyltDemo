@@ -1,0 +1,39 @@
+Mono path[0] = 'C:/Users/tas-m/Desktop/PortTylt/Tylt_Data/Managed'
+Mono path[1] = 'C:/Users/tas-m/Desktop/PortTylt/Tylt_Data/Mono'
+Mono config path = 'C:/Users/tas-m/Desktop/PortTylt/Tylt_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/tas-m/Desktop/PortTylt/Tylt_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55034
+Multi-casting "[IP] 192.168.1.83 [Port] 55034 [Flags] 2 [Guid] 993798265 [EditorId] 4218924993 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-OOASIPQ1) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55034]
+PlayerConnection already initialized - listening to [0.0.0.0:55034]
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.19.512.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tas-m\Desktop\PortTylt\Tylt_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.868871 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 388 -> priority: 1 
